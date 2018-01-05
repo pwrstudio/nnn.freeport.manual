@@ -29,6 +29,8 @@ Then [publish](https://i.imgur.com/KG9OX3g.png).
 
 It will take a few minutes for the content to show up on the website,as it needs to be uploaded to IPFS etc...
 
-## Editing the _About_ section
+Also note that work posts that are not connected to an exhibition will not show up on the website, likewise for content that is not connected with a work post.
+
+## Editing the About section
 
 !TODO
