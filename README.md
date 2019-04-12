@@ -6,11 +6,11 @@ There are three different types of posts: **Exhibition**, **Work** and **Content
 
 An exhibition can contain works, which in turn contain content, i.e.:
 
-'''
+```
 Exhibition
     => Work
         => Content
-'''
+```
 
 You connect work posts in in the _Works_ field at the bottom of the exhibition post.
 
